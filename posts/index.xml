@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on SDJ89</title>
+    <link>https://blog.sdj89.com/posts/</link>
+    <description>Recent content in Posts on SDJ89</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Oct 2020 19:01:46 +0800</lastBuildDate><atom:link href="https://blog.sdj89.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://blog.sdj89.com/posts/hello-world/</link>
+      <pubDate>Thu, 15 Oct 2020 19:01:46 +0800</pubDate>
+      
+      <guid>https://blog.sdj89.com/posts/hello-world/</guid>
+      <description>推开窗户看世界！
+ 本作品采用 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议 进行许可
+ </description>
+    </item>
+    
+  </channel>
+</rss>

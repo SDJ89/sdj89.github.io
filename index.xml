@@ -5,6 +5,32 @@
     <link>https://blog.sdj89.com/</link>
     <description>Recent content on SDJ89</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://blog.sdj89.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Oct 2020 19:01:46 +0800</lastBuildDate><atom:link href="https://blog.sdj89.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于</title>
+      <link>https://blog.sdj89.com/about/</link>
+      <pubDate>Fri, 16 Oct 2020 14:32:42 +0800</pubDate>
+      
+      <guid>https://blog.sdj89.com/about/</guid>
+      <description>本人 全栈开发攻城狮，专注于信息安全和大数据分析，使用 Python 和 JAVA 作为主要开发语言。
+ 本博客 基于 Hugo，托管于 Github，使用 Coder 主题。
+联系方式 如果您想联系我，请加我的微信：sdj_1024。
+版权信息  本作品采用 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议 进行许可：
+ 本授权条款允许您（用户）可以复制、发行、展览、表演、放映、广播或通过信息网络向公众传播作品，但在这些过程中您必须保留对原作品的署名 您可以自由复制、发行、展览、表演、放映、广播或通过信息网络向公众传播本作品，但仅限于非商业性目的 您仅在使用与本作品相同的许可协议情况下，才可以发行本作品的演绎作品 如果您的网站带有各种类型的商业广告（包括但不限于 Google Ads 和阿里妈妈），转载也算被作商业目的，请知悉  转载作品遵守原作者授权协议，所有权利归原作者所有
+ </description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://blog.sdj89.com/posts/hello-world/</link>
+      <pubDate>Thu, 15 Oct 2020 19:01:46 +0800</pubDate>
+      
+      <guid>https://blog.sdj89.com/posts/hello-world/</guid>
+      <description>推开窗户看世界！
+ 本作品采用 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议 进行许可
+ </description>
+    </item>
+    
   </channel>
 </rss>

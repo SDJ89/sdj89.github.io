@@ -3,11 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.sdj89.com/categories/</loc>
+    <loc>https://blog.sdj89.com/about/</loc>
+    <lastmod>2020-10-16T14:32:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sdj89.com/posts/hello-world/</loc>
+    <lastmod>2020-10-15T19:01:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sdj89.com/posts/</loc>
+    <lastmod>2020-10-15T19:01:46+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.sdj89.com/</loc>
+    <lastmod>2020-10-15T19:01:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sdj89.com/categories/</loc>
   </url>
   
   <url>
