@@ -4,54 +4,30 @@
     <title>SDJ89</title>
     <link>https://blog.sdj89.com/</link>
     <description>Recent content on SDJ89</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Mar 2021 09:54:35 +0800</lastBuildDate><atom:link href="https://blog.sdj89.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Mar 2021 09:54:35 +0800</lastBuildDate>
+    <atom:link href="https://blog.sdj89.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>开源有所思（一）</title>
       <link>https://blog.sdj89.com/posts/think-in-opensource-01/</link>
       <pubDate>Wed, 03 Mar 2021 09:54:35 +0800</pubDate>
-      
       <guid>https://blog.sdj89.com/posts/think-in-opensource-01/</guid>
-      <description>问：为什么越来越多的企业选择将项目/技术方案开源 企业解决方案，开源的终极目的都是为了赚钱。 赚钱的第一步就是要扩大影响力、增加话语权。
-下游中小企业，为了节约业务、技术的实现成本，选择开源解决方案，满足企业安全的部分需求（代码透明）， 同时，降低了企业招聘成本，选择一个熟悉相关开源方案的二流技术人员即可实现一流的业务。
-问：开源项目会一直火下去吗 从赚钱的角度看，开源仅仅是一条风险极大的捷径，赚钱的项目，终将走向闭源。 现在 GitHub/GitLab 上开源项目百花齐放的盛景，终将成为这个时代的独特风景。
-单从事物发展的角度出发， 同一类型的开源项目，争抢的最终用户也是一样的，竞争在所难免，相关开源解决方案，必定会出现消亡。
-随着各行各业的通用业务、技术场景的开源，市场最终会慢慢饱和，后来者会发现，同一高度，无新可创。
-业务和技术的开源，将相关行业带入高速发展轨道，但发展的速度达到峰值之后，终究会进入瓶颈期。如果依旧希望依靠开源提升生产力，除了寄希望于开源方案提供商之外，对于中小企业而言，别无他法。
-问：开源项目对普通大众（程序员）有什么影响 开源的目的是赚钱，其受众大部分是企业，业务场景和业务容量也是为他们定制的。
-普通大众应该借着开源这股风，构建自己的个人生活中心，将个人信息放在自己的信息保险柜中。这些数据，未经同意，除了你自己，谁也不能得到。
-随着业务、技术、法律方面的健全，部分不符合企业价值观的开源方案会慢慢被消失、被弱化。所以，趁着相关方面还没有动手，大家赶快拿硬盘收藏起来。
-  本作品采用 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议 进行许可
-本文原创链接：https://blog.sdj89.com/posts/think-in-opensource-01/
- </description>
+      <description>&lt;h2 id=&#34;问为什么越来越多的企业选择将项目技术方案开源&#34;&gt;&#xA;  问：为什么越来越多的企业选择将项目/技术方案开源&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e9%97%ae%e4%b8%ba%e4%bb%80%e4%b9%88%e8%b6%8a%e6%9d%a5%e8%b6%8a%e5%a4%9a%e7%9a%84%e4%bc%81%e4%b8%9a%e9%80%89%e6%8b%a9%e5%b0%86%e9%a1%b9%e7%9b%ae%e6%8a%80%e6%9c%af%e6%96%b9%e6%a1%88%e5%bc%80%e6%ba%90&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;企业解决方案，开源的终极目的都是为了赚钱。&#xA;赚钱的第一步就是要扩大影响力、增加话语权。&lt;/p&gt;&#xA;&lt;p&gt;下游中小企业，为了节约业务、技术的实现成本，选择开源解决方案，满足企业安全的部分需求（代码透明），&#xA;同时，降低了企业招聘成本，选择一个熟悉相关开源方案的二流技术人员即可实现一流的业务。&lt;/p&gt;&#xA;&lt;h2 id=&#34;问开源项目会一直火下去吗&#34;&gt;&#xA;  问：开源项目会一直火下去吗&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e9%97%ae%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e4%bc%9a%e4%b8%80%e7%9b%b4%e7%81%ab%e4%b8%8b%e5%8e%bb%e5%90%97&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;从赚钱的角度看，开源仅仅是一条风险极大的捷径，赚钱的项目，终将走向闭源。&#xA;现在 GitHub/GitLab 上开源项目百花齐放的盛景，终将成为这个时代的独特风景。&lt;/p&gt;&#xA;&lt;p&gt;单从事物发展的角度出发，&#xA;同一类型的开源项目，争抢的最终用户也是一样的，竞争在所难免，相关开源解决方案，必定会出现消亡。&lt;/p&gt;&#xA;&lt;p&gt;随着各行各业的通用业务、技术场景的开源，市场最终会慢慢饱和，后来者会发现，同一高度，无新可创。&lt;/p&gt;&#xA;&lt;p&gt;业务和技术的开源，将相关行业带入高速发展轨道，但发展的速度达到峰值之后，终究会进入瓶颈期。如果依旧希望依靠开源提升生产力，除了寄希望于开源方案提供商之外，对于中小企业而言，别无他法。&lt;/p&gt;&#xA;&lt;h2 id=&#34;问开源项目对普通大众程序员有什么影响&#34;&gt;&#xA;  问：开源项目对普通大众（程序员）有什么影响&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e9%97%ae%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e5%af%b9%e6%99%ae%e9%80%9a%e5%a4%a7%e4%bc%97%e7%a8%8b%e5%ba%8f%e5%91%98%e6%9c%89%e4%bb%80%e4%b9%88%e5%bd%b1%e5%93%8d&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;开源的目的是赚钱，其受众大部分是企业，业务场景和业务容量也是为他们定制的。&lt;/p&gt;&#xA;&lt;p&gt;普通大众应该借着开源这股风，构建自己的个人生活中心，将个人信息放在自己的信息保险柜中。这些数据，未经同意，除了你自己，谁也不能得到。&lt;/p&gt;&#xA;&lt;p&gt;随着业务、技术、法律方面的健全，部分不符合企业价值观的开源方案会慢慢被消失、被弱化。所以，趁着相关方面还没有动手，大家赶快拿硬盘收藏起来。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;本作品采用&amp;nbsp;&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34; class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议&lt;/a&gt;&amp;nbsp;进行许可&lt;/strong&gt;&lt;br/&gt;&#xA;&lt;strong&gt;本文原创链接：&lt;/strong&gt;&lt;a class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; href=&#34;https://blog.sdj89.com/posts/think-in-opensource-01/&#34;&gt;https://blog.sdj89.com/posts/think-in-opensource-01/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
-    
     <item>
       <title>关于</title>
       <link>https://blog.sdj89.com/about/</link>
       <pubDate>Fri, 16 Oct 2020 14:32:42 +0800</pubDate>
-      
       <guid>https://blog.sdj89.com/about/</guid>
-      <description>本人 全栈开发攻城狮，专注于信息安全和大数据分析，使用 Python 和 JAVA 作为主要开发语言。
-本站 基于 Hugo，托管于 Github，使用 Coder 主题。
-联系方式 如果您想联系我，请加我的微信：sdj_1024。
-版权信息  本站作品采用 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议 进行许可：
- 本授权条款允许您（用户）可以复制、发行、展览、表演、放映、广播或通过信息网络向公众传播作品，但在这些过程中您必须保留对原作品的署名 您可以自由复制、发行、展览、表演、放映、广播或通过信息网络向公众传播本作品，但仅限于非商业性目的 您仅在使用与本作品相同的许可协议情况下，才可以发行本作品的演绎作品 如果您的网站带有各种类型的商业广告（包括但不限于 Google Ads 和阿里妈妈），转载也算被作商业目的，请知悉  转载作品遵守原作者授权协议，所有权利归原作者所有
- </description>
+      <description>&lt;h2 id=&#34;本人&#34;&gt;&#xA;  本人&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e6%9c%ac%e4%ba%ba&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;全栈开发攻城狮，专注于信息安全和大数据分析，使用 Python 和 JAVA 作为主要开发语言。&lt;/p&gt;&#xA;&lt;h2 id=&#34;本站&#34;&gt;&#xA;  本站&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e6%9c%ac%e7%ab%99&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;基于 &lt;a href=&#34;https://gohugo.io/&#34; title=&#34;Hugo&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;，托管于 &lt;a href=&#34;https://github.com/sdj89/sdj89.github.io/&#34; title=&#34;Github&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;，使用 &lt;a href=&#34;https://github.com/luizdepra/hugo-coder/&#34; title=&#34;Coder&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coder&lt;/a&gt; 主题。&lt;/p&gt;&#xA;&lt;h2 id=&#34;联系方式&#34;&gt;&#xA;  联系方式&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;如果您想联系我，请加我的微信：&lt;em&gt;&lt;strong&gt;sdj_1024&lt;/strong&gt;&lt;/em&gt;。&lt;/p&gt;&#xA;&lt;h2 id=&#34;版权信息&#34;&gt;&#xA;  版权信息&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e7%89%88%e6%9d%83%e4%bf%a1%e6%81%af&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;本站作品采用 &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议&lt;/a&gt; 进行许可：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;本授权条款允许您（用户）可以复制、发行、展览、表演、放映、广播或通过信息网络向公众传播作品，但在这些过程中您必须保留对原作品的署名&lt;/li&gt;&#xA;&lt;li&gt;您可以自由复制、发行、展览、表演、放映、广播或通过信息网络向公众传播本作品，但仅限于非商业性目的&lt;/li&gt;&#xA;&lt;li&gt;您仅在使用与本作品相同的许可协议情况下，才可以发行本作品的演绎作品&lt;/li&gt;&#xA;&lt;li&gt;如果您的网站带有各种类型的商业广告（包括但不限于 Google Ads 和阿里妈妈），转载也算被作商业目的，请知悉&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;转载作品遵守原作者授权协议，所有权利归原作者所有&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
-    
     <item>
       <title>Hello World</title>
       <link>https://blog.sdj89.com/posts/hello-world/</link>
       <pubDate>Thu, 15 Oct 2020 19:01:46 +0800</pubDate>
-      
       <guid>https://blog.sdj89.com/posts/hello-world/</guid>
-      <description>推开窗户看世界！
-  本作品采用 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议 进行许可
-本文原创链接：https://blog.sdj89.com/posts/hello-world/
- </description>
+      <description>&lt;p&gt;推开窗户看世界！&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;本作品采用&amp;nbsp;&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34; class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议&lt;/a&gt;&amp;nbsp;进行许可&lt;/strong&gt;&lt;br/&gt;&#xA;&lt;strong&gt;本文原创链接：&lt;/strong&gt;&lt;a class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; href=&#34;https://blog.sdj89.com/posts/hello-world/&#34;&gt;https://blog.sdj89.com/posts/hello-world/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
-    
   </channel>
 </rss>
